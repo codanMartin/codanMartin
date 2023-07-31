@@ -18,7 +18,7 @@ Tailwind CSS
 Firebase
 MongoDB
 Stripe Payment Integration
-I am now seeking opportunities to contribute my expertise and creativity to a dynamic team where I can further refine my programming abilities and make a positive impact on exciting projects.
+I am now seeking opportunities to contribute to a dynamic team where I can further refine my programming abilities and make a positive impact on exciting projects.
 
 Let's connect and explore how our combined efforts can lead to extraordinary results. I'm open to discussing new ventures and collaborations in the software development industry.
 
