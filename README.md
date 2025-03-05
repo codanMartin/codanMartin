@@ -22,5 +22,5 @@ I am now seeking opportunities to contribute to a dynamic team where I can furth
 
 Let's connect and explore how our combined efforts can lead to extraordinary results. I'm open to discussing new ventures and collaborations in the software development industry.
 
-🔗 LinkedIn: https://www.linkedin.com/in/codanmartin25/
+🔗 LinkedIn: [https://www.linkedin.com/in/codanmartin25/](https://www.linkedin.com/in/dan-stefan-martin-b792632a2/)
 📧 Email: codanmartin.25@gmail.com
